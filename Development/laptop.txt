@@ -1,0 +1,5 @@
+Razer Blade,Razer , $2000,20, i7 7th Gen, RTX 3090
+IdeaPad 3 ,Lenovo , $1275,36, i5 9th Gen, GTX 1650
+Acer Nitro 5,Acer , $1978,55, i5 9th Gen, RTX 2060
+HP Pavilion 15, HP, $900,45, i5 9th Gen , GTX 1650
+Macbook Pro 16, Apple, $3500,45, i5 9th Gen, RTX 3060
